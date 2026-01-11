@@ -1,0 +1,54 @@
+
+''' 
+grok AI for personal research 
+    1):-   promt enginering :-  in 4 part
+                                         role  objective  context data 
+
+GET MULTI    for multiple ai
+
+
+For Type :--  Wisper Flow AI                voice to text
+
+
+TO Analyze PDF & Stock  :-Notebook LM            it is too good for podcast
+
+
+To edit some Images :-    gemmni
+
+
+To create website UI/UX :-   gemmni
+
+
+
+To create app:- ai studio
+
+
+presentation :-   kimi
+
+
+Data analysis :- julius ai
+
+
+ATS friendly RESUME:-  https://chatgpt.com/g/g-67b866a648a88191b29e8274026994fd-be10x-ats-resume-generator
+
+JOB INTERVIEW:- voice mode feature in chatgpt
+
+Highn Paying Jobs :- comet  (perplexity ai) automatic apply by linkeden on our behalf 
+
+
+My personal agent:-  N8N
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''
