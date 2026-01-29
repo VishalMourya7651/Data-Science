@@ -10,7 +10,7 @@ GET MULTI    for multiple ai
 For Type :--  Wisper Flow AI                voice to text
 
 
-TO Analyze PDF & Stock  :-Notebook LM            it is too good for podcast
+TO Analyze PDF & Stock  :-   Notebook LM            it is too good for podcast
 
 
 To edit some Images :-    gemmni
@@ -37,17 +37,6 @@ Highn Paying Jobs :- comet  (perplexity ai) automatic apply by linkeden on our b
 
 
 My personal agent:-  N8N
-
-
-
-
-
-
-
-
-
-
-
 
 
 
