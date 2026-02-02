@@ -148,3 +148,15 @@ print(mae4)
 
 score4=r2_score(y_test,y_pred)
 print(score4)
+
+
+
+
+
+# model is trained in above line of code 
+#now we try to make project in form of web so below code are used by converting any model in pickel file
+
+''' two object those are scaler and ridge is used in pickle file'''
+import pickle
+pickle.dump(scaler,open('scaler.pkl','wb'))
+pickle.dump(ridge,open('ridge.pkl','wb'))
